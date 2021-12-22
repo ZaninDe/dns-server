@@ -180,7 +180,7 @@ node n9 {
 	custom-config-id service:UserDefined:/etc/resolv.conf
 	custom-command /etc/resolv.conf
 	config {
-	nameserver 10.0.2.11
+	nameserver 10.0.3.11
 	}
     }
     services {DefaultRoute UserDefined}
